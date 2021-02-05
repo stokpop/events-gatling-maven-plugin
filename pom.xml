@@ -52,7 +52,7 @@
 		<header.basedir>${project.basedir}</header.basedir>
 		<maven-plugin-plugin.version>3.6.0</maven-plugin-plugin.version>
 		<maven-surefire-plugin.version>2.22.1</maven-surefire-plugin.version>
-		<junit.version>5.4.0</junit.version>
+		<junit.version>5.7.1</junit.version>
 		<event-scheduler.version>3.0.0</event-scheduler.version>
 	</properties>
 
